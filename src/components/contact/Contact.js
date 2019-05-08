@@ -2,7 +2,7 @@ import React from 'react';
 
 const contact = () => (
     <div>
-        <h2>Infosivu</h2>
+        <h2>Contact page</h2>
     </div>
 );
 

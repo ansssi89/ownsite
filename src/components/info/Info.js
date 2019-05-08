@@ -2,7 +2,7 @@ import React from 'react';
 
 const info = () => (
     <div>
-        <h2>Infosivu</h2>
+        <h2>Info page</h2>
     </div>
 );
 
