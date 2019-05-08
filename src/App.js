@@ -7,6 +7,8 @@ import Contact from './components/contact/Contact';
 function App() {
   return (
     <div className="App">
+      <h1>Anssif</h1>
+      <h3>Welcome to my home page.</h3>
       <Info />
       <Contact />
     </div>
