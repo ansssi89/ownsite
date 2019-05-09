@@ -1,5 +1,11 @@
-.div {
+.me {
     border-style: solid;
-    background-color: black;
-    color: aqua;
+    background-color: darkgrey;
+    color: darkred;
+}
+
+.background {
+    border-style: solid;
+    background-color: darkgrey;
+    color: darkred;
 }
