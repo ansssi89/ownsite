@@ -1,4 +1,7 @@
 .contact {
-    background-color: darkgrey;
-    color: darkred;
+    border-style: solid;
+    padding: 20px;
+    margin: 20px;
+    background-color: rgba(8, 19, 85, 0.986);
+    color: white;
 }

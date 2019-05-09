@@ -1,7 +1,7 @@
 .App {
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
   text-align: center;
-  background-color: grey;
-  color: darkred;
+  background-color: lightskyblue;
+  color: rgba(31, 17, 233, 0.932);
 }
 
